@@ -17,6 +17,7 @@ MAC dan Linux user :
     `which python` atau `which python3`
 2. Lalu check apakah path directory tersebut sudah ada di PATH environment variable dengan cara :
     `echo $PATH`
+3. Jika belum ada maka tambahkan dengan cara `export PATH=$PATH:/path/to/python`
 
 Windows :
 1. https://www.educative.io/answers/how-to-add-python-to-path-variable-in-windows
