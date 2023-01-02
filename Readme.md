@@ -12,6 +12,7 @@ Steps :
 4. Jalankan `python report.py` untuk mengirim grafik ke Slack Channel
 
 Problems :
+
 MAC dan Linux user :
 1. Jika devicemu MAC atau Linux dan menemui Python not found coba jalankan berintah berikut :
     `which python` atau `which python3`
